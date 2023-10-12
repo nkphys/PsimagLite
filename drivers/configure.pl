@@ -42,7 +42,7 @@ sub createMakefile
 
 	my @drivers = qw(integrator sparseSolverTest testCRSMatrix combineContinuedFraction
 	continuedFraction continuedFractionCollection range kernelPolynomial fit
-	linearPrediction options randomTest svd testLapack threads loadImbalance testIsClass
+	linearPrediction options randomTest svd svd2 testLapack threads loadImbalance testIsClass
 	sumDecomposition calculator closuresTest base64test checkRunId
 	testLanczos testExcitedLanczos testLanczosMatrixInFile nested testIoNg testIoNgBoolean
 	affinityTest testPredicate isBlasThreaded testParallelizer2 testGemmR testGemmR2
